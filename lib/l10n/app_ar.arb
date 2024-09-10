@@ -1,0 +1,23 @@
+{
+    "driversLicense" : "رخصة السائق",
+    "driversLicenseHeader": "رخصة السائق",
+    "signature" : "إمضاء",
+    "location" : "THE KYRGYZ REPUBLIC",
+    "nameHeader" : "ايه تي اي / الاسم",
+    "name": "Mergenbaev",
+    "fathersNameHeader": "الأب / أوتشيستفو",
+    "fathersName": "Egizbekovich",
+    "categoryHeader": "الفئة / الفئة",
+    "category": "ب",
+    "issueDateHeader" : "تاريخ الإصدار / تاريخ الإصدار",
+    "issueDate" : "2019-04-23",
+    "issueAuthorityHeader" : "بيرغن ميكيم / جهة الإصدار",
+    "issueAuthority" : "Bishkek City REO",
+    "expiryDateHeder" : "تاريخ انتهاء الصلاحية / تاريخ انتهاء الصلاحية",
+    "expiryDate" : "2029-04-23",
+    "statusHeader" : "الحالة / الحالة",
+    "status" : "صالح",
+    "certificateNoHeader": "رقم الشهادة / رقم Udostoverenia",
+    "certificateNo": "001059935",
+    "qrCode": "اسحب لعرض رمز الاستجابة السريعة" 
+}
